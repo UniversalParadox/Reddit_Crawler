@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'RedditAPICrawler'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99E9591FEA794D949ED753B7087D6E3A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_183983404E7344729AE427DDCA3C931A }}
